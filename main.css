@@ -2,14 +2,11 @@ body, html {
   height: 100%;
 }
 
-.bg { 
-  /* The image used */
-  background-image: url("http://drive.google.com/uc?export=view&id=1lyu2W9mYbJtlEY-6_wEN2KG_khoDTCkw" alt = "Webby End logo");
+.bg {
+  background-image: url("http://drive.google.com/uc?export=view&id=1lyu2W9mYbJtlEY-6_wEN2KG_khoDTCkw");
 
-  /* Full height */
-  height: 100%; 
+  height: 100%;
 
-  /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
